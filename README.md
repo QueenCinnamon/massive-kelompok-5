@@ -56,14 +56,35 @@ ___________________________________________________
 
 ___________________________________________________
 #Deployment
-#Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+1. Model Building & Training
+-  Pengumpulan Data: Mengumpulkan data dari sumber yang relevan.
+- Pra-pemrosesan Data :Mengubah data kategorik ke numerik.
+- Pembagian Data:Memisahkan data menjadi set pelatihan (training set) dan set pengujian (testing set) untuk evaluasi model.
+- Pemilihan Model: Memilih algoritma machine learning yang sesuai, seperti SVM untuk data multi-kelas dan sangat cocok untuk masalah dengan banyak fitur.
+- Pelatihan Model:Melatih model menggunakan data pelatihan dan Menyempurnakan parameter model (hyperparameter tuning) untuk meningkatkan kinerja.
+- Evaluasi Model: Menyempurnakan parameter model (hyperparameter tuning) untuk meningkatkan kinerja dan Menggunakan metrik evaluasi seperti akurasi, precision, recall, dan F1-score.
+- Validasi Model: Menggunakan teknik validasi silang (cross-validation) untuk memastikan model tidak overfitting.
+- Deployment Model: Mengintegrasikan model yang sudah dilatih ke dalam web
+- Monitoring dan Maintenance: Memantau kinerja model secara berkala dan memperbarui model jika diperlukan.
+2. Model Evaluation
+ Gambar perbandingan metrik kinerja SVM linear kernel yang kami gunakan dengan SVM kernel polynomial. Selain akurasi yang lebih tinggi, linear kernel memiliki waktu training yang lebih cepat yaitu 4ms, sedangkan polynomial kernel memiliki waktu training 16ms.
+3. Model Deployment
+
+4. AI model integration
+Hasil model Ai dari Watson Assistant diintegrasikan ke sebuah website dengan code embed sehingga menampilkan chatbot yang telah di program pada Watson Assistant.   
 
 ___________________________________________________
 #Result
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+1. AI model peformance metrics
+2. Visualization of result data
+3. Achievement of project goals
+4. Limitations and challange faced
 
 ___________________________________________________
 #Conclusion
-Disesuaikan dengan kebutuhan atau bisa ditiru dari laporan dokumentasi massive.
+1. Summary of important points
+2. Contribution to science and technology
+3. Future project development plants
+   
 
 ___________________________________________________
