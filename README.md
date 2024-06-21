@@ -29,7 +29,7 @@ Kami menggunakan pandas untuk membersihkan data. Berikut tabel contoh data yang 
 Poin soal dataset boleh ditambahkan sesuai kebutuhan.
 
 2. Algorithm
-Kami menerapkan algoritma Supported Vector Machine untuk membangun model yang dapat mengidentifikasi pola-pola penipuan dalam transaksi. Algoritma ini dipilih karena kemampuannya dalam menangani berbagai jenis fitur dan toleransi terhadap  data yang tidak seimbang.
+Kami menerapkan algoritma Supported Vector Machine untuk membangun model yang dapat mengidentifikasi faktor-faktor yang dapat mempengaruhi performa akademik siswa. Algoritma ini dipilih karena efektif pada dataset dengan banyak fitur (dimensi tinggi),  tidak terlalu dipengaruhi oleh jumlah dimensi data.
 
 Pembangunan Model
 proses pembangunan dan  pelatihan model, mulai dari pengumpulan data, pra-pemrosesan data, pemilihan model, pelatihan model, hingga evaluasi model. Mungkin ada kotak-kotak yang mewakili setiap  langkah dengan panah yang menghubungkannya. 
